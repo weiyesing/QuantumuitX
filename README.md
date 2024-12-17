@@ -1,3 +1,16 @@
+*********************************************************************************************
+# 免费订阅链接
+*********************************************************************************************
+不定期更新
+clash：
+https://gist.githubusercontent.com/weiyesing/baf251c9b45e85844b07bf18c8dd8c20/raw/clash.yaml
+
+v2ray：
+https://gist.githubusercontent.com/weiyesing/baf251c9b45e85844b07bf18c8dd8c20/raw/v2ray.txt
+
+singbox：
+https://gist.githubusercontent.com/weiyesing/baf251c9b45e85844b07bf18c8dd8c20/raw/singbox.json
+
 # QuantumultX
 自用圈叉配置整合各大佬的重写与分流规则
 
