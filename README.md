@@ -1,17 +1,9 @@
 *********************************************************************************************
-# 免费订阅链接
+# 合租机场
 *********************************************************************************************
-不定期更新
-
-clash：
-https://gist.githubusercontent.com/weiyesing/baf251c9b45e85844b07bf18c8dd8c20/raw/clash.yaml
-
-v2ray：
-https://gist.githubusercontent.com/weiyesing/baf251c9b45e85844b07bf18c8dd8c20/raw/v2ray.txt
-
-singbox：
-https://gist.githubusercontent.com/weiyesing/baf251c9b45e85844b07bf18c8dd8c20/raw/singbox.json
-
+自己搭建的自用机场，为了保证速度，限 10 个人合租，20/年.
+网址https://wxui.us.kg
+机场无法直接购买，需要请给我留言。
 # QuantumultX
 自用圈叉配置整合各大佬的重写与分流规则
 
